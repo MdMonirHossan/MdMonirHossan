@@ -9,7 +9,7 @@ Also skilled in **Python**, **Django**, **DRF**, **Celery**, **Keycloak**, **Doc
 Open to roles as a **Software Engineer** or **Senior Software Engineer**, where I can contribute clean, scalable solutions to challenging problems and collaborate on impactful systems using modern technologies.
 
 ## 🌐 My Profiles
- [<img src='/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-monir-hossan-283290199//)
+ [<img src='/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-monir-hossan-283290199//)
 [<img src='/img/stackoverflow.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12006585/md-monir)  
 
 ##  🧠 Skills & Experiences
