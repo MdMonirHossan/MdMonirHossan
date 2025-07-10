@@ -1,5 +1,5 @@
 ## Hi 👋, I am MD. MONIR HOSSAN
-## Software Engineer | NestJS, Django, gRPC, Kafka | Nx Monorepo | Fintech Systems
+## Software Engineer | NodeJS, Python | Rest, GraphQL, gRPC, Kafka | Microservice | Nx Monorepo | Fintech Systems
 
 ## 👨‍💻 About Me
 Backend-focused Software Engineer with **5+** years of professional experience building **scalable**, **maintainable** systems in microservices architecture. Proficient in **NodeJS**, **NestJS**, **REST**, **GraphQL**, **gRPC**, **Kafka**, **TypeORM**, **Yugabyte**, and **PostgreSQL**, with solid experience in **Nx** monorepo management.
