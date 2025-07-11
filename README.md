@@ -24,18 +24,16 @@ Backend-focused Software Engineer with **5+ years** of experience building **sca
 
 ## 🧠 Skills
 
-### 🔹 Core Technologies
+### 🚀 Core Technologies
+✅ Node.js  ✅ NestJS  ✅ TypeScript  ✅ Python  
+✅ Django   ✅ Flask   ✅ REST API    ✅ GraphQL  
+✅ gRPC     ✅ Kafka   ✅ PostgreSQL  ✅ MySQL
 
-✅ Node.js ✅ NestJS ✅ TypeScript
-✅ Python ✅ Django ✅ Flask
-✅ REST API ✅ GraphQL ✅ gRPC
-✅ Kafka ✅ PostgreSQL ✅ MySQL
+### 🧰 Tools & DevOps
+✅ Docker      ✅ Git/GitHub  ✅ GitHub CI/CD  
+✅ Nx Monorepo ✅ Redis       ✅ Keycloak  ✅ Celery  
+✅ OAuth2/JWT  ✅ Microservices
 
-### 🔹 Tools
-
-✅ Docker ✅ Git/GitHub ✅ GitHub CI/CD
-✅ Nx Monorepo ✅ Redis ✅ Keycloak
-✅ Celery ✅ OAuth2/JWT ✅ Microservices
 
 ---
 
