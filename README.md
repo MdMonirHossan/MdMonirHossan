@@ -17,12 +17,12 @@ Backend-focused Software Engineer with **5+ years** of experience building **sca
 
 ## 🌐 My Profiles
 
-[<img src='https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-monir-hossan-283290199//)
+[<img src='https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-monir-hossan-283290199/)
 [<img src='https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/stackoverflow.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12006585/md-monir)
 
 ---
 
-## 🧠 Skills & Experience
+## 🧠 Skills
 
 ### 🔹 Core Technologies
 
@@ -38,6 +38,25 @@ Backend-focused Software Engineer with **5+ years** of experience building **sca
 ✅ Celery ✅ OAuth2/JWT ✅ Microservices
 
 ---
+
+## 💼 Work Experience
+
+**🏢 Circle FinTech Ltd**  
+**Sr. Software Engineer (Mar 2023 – Present)**<br>
+**Software Engineer (Jul 2021 – Feb 2023)**<br>
+Built scalable microservices, APIs, and middleware using NestJS, GraphQL, gRPC, Kafka, and PostgreSQL for open banking and payment systems.<br>
+**Tech:** Node.js, NestJS, PostgreSQL, Yugabyte, Nx, Python, Django, Kafka, Docker
+
+**🏢 English Essence Ltd**  
+**Sr. Software Engineer (Oct 2020 – May 2021)**<br>
+Designed backend architecture, APIs, and admin panel, deployed the platform on Heroku.<br>
+**Tech:** Django, DRF, Docker, Celery, Heroku, AWS S3
+
+**🏢 cWork Microjob Ltd**  
+**Jr. Software Engineer (Mar 2020 – Jun 2020)**
+Designed backend architecture, APIs, and admin panel; deployed the platform on Heroku for a large-scale English learning app.<br> 
+**Tech:** Django, DRF, PostgreSQL, AngularJS, Rasa, Heroku
+
 
 ## 📊 GitHub Stats
 
