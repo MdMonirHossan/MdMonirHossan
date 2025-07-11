@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm MD. MONIR HOSSAN</h1>
+<h2 align="center">
+    Hi 👋, I'm MD. MONIR HOSSAN
+    <p align="center" style='margin-bottom:0'>
+        <a href="https://www.linkedin.com/in/md-monir-hossan-283290199/">
+            <img src="https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/linkedin.png" alt='linkedin' height='40' />
+        </a>
+        <a href="https://stackoverflow.com/users/12006585/md-monir">
+            <img src="https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/stackoverflow.png"alt='stackoverflow' height='40' />
+        </a>
+    </p>
+</h2>
 <h3 align="center">Software Engineer | NestJS, Django, gRPC, Kafka | Nx Monorepo | Fintech Systems</h3>
 
 ---
@@ -15,12 +25,12 @@ Backend-focused Software Engineer with **5+ years** of experience building **sca
 
 ---
 
-## 🌐 My Profiles
+<!-- ## 🌐 My Profiles
 
 [<img src='https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-monir-hossan-283290199/)
 [<img src='https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/stackoverflow.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12006585/md-monir)
 
----
+--- -->
 
 ## 🧠 Skills
 
