@@ -2,10 +2,10 @@
     Hi 👋, I'm MD. MONIR HOSSAN
     <p align="center" style='margin-bottom:0'>
         <a href="https://www.linkedin.com/in/md-monir-hossan-283290199/">
-            <img src="https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/linkedin.png" alt='linkedin' height='40' />
+            <img src="https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/linkedin.png" alt='linkedin' height='25' />
         </a>
         <a href="https://stackoverflow.com/users/12006585/md-monir">
-            <img src="https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/stackoverflow.png"alt='stackoverflow' height='40' />
+            <img src="https://github.com/MdMonirHossan/MdMonirHossan/blob/main/img/stackoverflow.png"alt='stackoverflow' height='25' />
         </a>
     </p>
 </h2>
